@@ -5,7 +5,7 @@ import java.util.Random;
 public class Main {
 
 	public static void main(String[] args) {
-		final double NUM_PUNTOS = 1000000000;
+		final double NUM_PUNTOS = 10000000;
 		double enElCirculo = 0;
 		Random rnd = new Random();
 		
