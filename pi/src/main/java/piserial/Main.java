@@ -8,7 +8,7 @@ public class Main {
 		final double NUM_PUNTOS = 10000000;
 		double enElCirculo = 0;
 		Random rnd = new Random();
-		
+
 		long inicio = System.currentTimeMillis();
 		for(int i = 0; i < NUM_PUNTOS; i++) {
 			double x = rnd.nextDouble();
